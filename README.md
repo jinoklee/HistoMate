@@ -1,1 +1,1 @@
-# HistoMate
+# Preprocessing for WSI
